@@ -5,7 +5,7 @@ I care about clean architecture, testability, and code that doesn't make future-
 - Fan of **Hexagonal Architecture** and **spec-driven development**
 - AI-assisted development practitioner — tools work for me, not the other way around
 - Writing specs before code — because surprises are for birthdays, not production
-- Coffee-driven development — one cup per abstraction layer
+- Coffee-driven development
 
 🌐 Personal site: [zahaand.dev](https://zahaand.dev)
 
