@@ -4,8 +4,11 @@ Senior Java / FullStack Developer.
 I care about clean architecture, testability, and code that doesn't make future-me cry at 2am.
 
 - Fan of **Hexagonal Architecture** and **spec-driven development**
-- Powered by coffee and `jOOQ` — because raw SQL deserves respect
-- Personal site: [zahaand.dev](https://zahaand.dev)
+- AI-assisted development practitioner — tools work for me, not the other way around
+- Writing specs before code — because surprises are for birthdays, not production
+- Coffee-driven development — one cup per abstraction layer
+
+🌐 Personal site: [zahaand.dev](https://zahaand.dev)
 
 ## Tech stack
 
