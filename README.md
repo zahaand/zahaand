@@ -69,5 +69,5 @@ I care about **clean architecture**, **testability**, and code that doesn't make
 
 [![Email](https://img.shields.io/badge/zahaand@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zahaand@gmail.com)
 [![Telegram](https://img.shields.io/badge/@zahaand-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zahaand)
-[![Habr](https://img.shields.io/badge/Habr_Career-65A3BE?style=flat-square)](https://habr.com/ru/users/zahaand)
+[![Habr](https://img.shields.io/badge/Habr_Career-65A3BE?style=flat-square)]([https://habr.com/ru/users/zahaand](https://career.habr.com/zahaand))
 [![Website](https://img.shields.io/badge/zahaand.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://zahaand.dev)
