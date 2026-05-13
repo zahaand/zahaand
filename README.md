@@ -1,6 +1,5 @@
 ## About me
 
-Senior Java / FullStack Developer.  
 I care about clean architecture, testability, and code that doesn't make future-me cry at 2am.
 
 - Fan of **Hexagonal Architecture** and **spec-driven development**
